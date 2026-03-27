@@ -1,6 +1,6 @@
 # QuantumGPT-124M
 
-![QuantumGPT](quantumgpt.svg)
+<img src="./quantumgpt.svg" alt="quantumgpt" width="320" />
 
 
 
