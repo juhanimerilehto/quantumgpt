@@ -1,7 +1,7 @@
 # QuantumGPT-124M
-```
-![ASCII art](./quantumgpt.svg)
-```
+
+![QuantumGPT](quantumgpt.svg)
+
 
 
 ```powershell
