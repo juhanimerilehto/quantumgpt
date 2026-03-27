@@ -1,4 +1,8 @@
-# quantumgpt
+# QuantumGPT-124M
+```
+![ASCII art](./quantumgpt.svg)
+```
+
 
 ```powershell
 python generate.py --prompt "Create a Bell state with two qubits"
