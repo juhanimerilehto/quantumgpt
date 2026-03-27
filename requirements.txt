@@ -1,0 +1,8 @@
+# Validated on: RTX 4070 12GB, Ryzen 9 5950X, 128GB RAM, Windows 11, CUDA 12.x, Python 3.11, conda
+
+# Model loading and inference
+torch>=2.0
+transformers>=4.35
+
+# Optional: QASM validation (--validate flag)
+# qiskit>=1.0

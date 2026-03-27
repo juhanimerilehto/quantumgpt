@@ -1,0 +1,16 @@
+# Validated on: RTX 4070 12GB, Ryzen 9 5950X, 128GB RAM, Windows 11, CUDA 12.x, Python 3.11, conda
+name: quantumgpt
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch>=2.0
+  - pytorch-cuda=12.1
+  - pip
+  - pip:
+    - transformers>=4.35
+    # Uncomment for --validate flag:
+    # - qiskit>=1.0
